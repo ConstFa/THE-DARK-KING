@@ -1,9 +1,9 @@
 global.DeveloperMode = 'false' //true Or false
 global.linkGC = ['https://wa.me/+573152139466'] // No tiene utilidad 
-global.channelYT = ['https://www.youtube.com/channel/UCCrEOFYcEqK28CJq7EwB6rg'] // No tiene utilidad
-global.owner = ['573152139466', '+17094012432','+17094007365'] // Cambia los numeros por tu o tus numeros a los cuales te comtactaran y gestionaras el Bot
-global.mods = [''] // No tiene utilidad
-global.prems = [''] // No tiene utilidad
+global.channelYT = ['https://www.youtube.com'] // No tiene utilidad
+global.owner = ['51978048374'] // Cambia los numeros por tu o tus numeros a los cuales te comtactaran y gestionaras el Bot
+global.mods = ['51978048374'] // No tiene utilidad
+global.prems = ['51978048374'] // No tiene utilidad
 
 //Lo siguiente no tiene nada que ver con el funcionamiento del Bot:
 // Nota: Puedes contactarme si necesitas ayuda con algo al +5219996125657 (este es mi numero personal/real bloqueo personas que no sean temas de la instalación)
