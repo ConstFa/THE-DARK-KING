@@ -1,4 +1,4 @@
-global.DeveloperMode = 'false' //true Or false
+global.DeveloperMode = 'true' //true Or false
 global.linkGC = ['https://wa.me/+51978048374'] // No tiene utilidad 
 global.channelYT = ['https://www.youtube.com'] // No tiene utilidad
 global.owner = ['51978048374'] // Cambia los numeros por tu o tus numeros a los cuales te comtactaran y gestionaras el Bot
